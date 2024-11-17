@@ -52,7 +52,7 @@ DOMAIN-SUFFIX,nivodi.com
 DOMAIN-SUFFIX,steamcommunity.com
 DOMAIN-SUFFIX,steampowered.com
 DOMAIN-SUFFIX,gmgn.ai
-DOMAIN-SUFFIX,dexscreener.com
+DOMAIN-KEYWORD,dexscreener
 
 IP-CIDR,8.8.8.8/32,no-resolve
 IP-CIDR,8.8.4.4/32,no-resolve
